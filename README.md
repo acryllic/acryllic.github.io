@@ -1,6 +1,6 @@
 # Simple Texture Jekyll Theme
 
-![Gem Version](https://img.shields.io/gem/v/jekyll-theme-simple-texture.svg)
+![Gem Version](https://camo.githubusercontent.com/708d9d2a819dc6d2afeb4dc08ef89915b9bea098/68747470733a2f2f696d672e736869656c64732e696f2f67656d2f762f6a656b796c6c2d7468656d652d73696d706c652d746578747572652e737667)
 
 Simple Texture is a gem-based responsive simple texture styled Jekyll theme for [Jekyll][Jekyll] 3.3 or above,
 which can also be forked as a boilerplate for older versions of Jekyll.
